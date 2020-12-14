@@ -1,0 +1,4 @@
+Bundle-Name: AdminData
+Bundle-SymbolicName: com.ricoh.test.liferay
+Bundle-Version: 1.0.0
+Export-Package: com.ricoh.test.liferay.constants
